@@ -99,6 +99,7 @@ img {
     padding-top: 75px;
 }
 
+
 /* -------------------------------------
 Start Default Btn
 ----------------------------------------*/
@@ -174,6 +175,7 @@ Start Default Btn
     transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66) !important;
 }
 
+
 /* -----------------------------------
 Start Section Title
 --------------------------------------*/
@@ -231,6 +233,7 @@ Start Section Title
     color: var(--headingColor);
     line-height: 55px;
 }
+
 
 /* --------------------------------
 Start Contact Popup Area
@@ -646,6 +649,7 @@ Start Contact Popup Area
     animation: rotateme 9s linear infinite;
 }
 
+
 /* -----------------------------------
 Start Get In Touch Area 
 ---------------------------------------*/
@@ -674,6 +678,7 @@ Start Get In Touch Area
     background-color: rgba(42, 42, 46, 0.85);
     z-index: -1;
 }
+
 
 /* -----------------------------------
 Start Banner Area
@@ -747,10 +752,12 @@ Start Banner Area
     margin-left: auto;
     margin-right: auto;
 }
-.banner-three-area .bxl-instagram{
+
+.banner-three-area .bxl-instagram {
     margin-top: 8px;
     color: #f7562c;
 }
+
 .banner-area .banner-scroll a:hover i {
     color: var(--mainColor);
 }
@@ -872,6 +879,7 @@ Start Banner Area
     margin-right: -18px;
     margin-left: -18px;
 }
+
 
 /* -----------------------------------
 Start Banner Two Area
@@ -1006,6 +1014,7 @@ Start Banner Two Area
     position: relative;
     left: 25px;
 }
+
 
 /* -----------------------------------
 Start Banner Three Area 
@@ -1185,6 +1194,7 @@ Start Banner Three Area
     border-radius: 100%;
 }
 
+
 /* -----------------------------------
 - Start About Three Area
 ---------------------------------------*/
@@ -1255,7 +1265,7 @@ Start Banner Three Area
     margin-bottom: 24px;
 }
 
-.single-about-three-content   {
+.single-about-three-content {
     margin-right: -12px;
 }
 
@@ -1264,7 +1274,7 @@ Start Banner Three Area
 }
 
 .single-about-three-content .about-text {
-    font-size: 18px; 
+    font-size: 18px;
     font-weight: 400;
     font-family: var(--fontFamily);
     line-height: 30px;
@@ -1293,6 +1303,7 @@ Start Banner Three Area
     margin-bottom: 28px;
     padding-right: 5px;
 }
+
 
 /* -----------------------------------
 Start Services Three Area
@@ -1353,6 +1364,7 @@ Start Services Three Area
     border: none;
     padding: 0;
 }
+
 
 /* -----------------------------------
 Start What Can I Do Area
@@ -1463,6 +1475,7 @@ Start What Can I Do Area
     visibility: visible;
 }
 
+
 /* -----------------------------------
 Star Who Am I Area 
 ---------------------------------------*/
@@ -1553,6 +1566,7 @@ Star Who Am I Area
     margin-top: 3px;
     color: #888888;
 }
+
 
 /* -----------------------------------
 Start About Area
@@ -1702,6 +1716,7 @@ Start About Area
         width: 100%;
     }
 }
+
 
 /* -----------------------------------
 Services Popup Area
@@ -1874,6 +1889,7 @@ Services Popup Area
     background-color: var(--secondaryColor);
 }
 
+
 /* -----------------------------------
 Start Services Area
 ---------------------------------------*/
@@ -1979,6 +1995,7 @@ Start Services Area
     color: var(--whiteColor);
     background-color: var(--mainColor);
 }
+
 
 /* -----------------------------------
 Start Testimonials Client Area 
@@ -2105,6 +2122,7 @@ Start Testimonials Client Area
     filter: brightness(10);
 }
 
+
 /* -----------------------------------
 Start Recent Blog Area
 ---------------------------------------*/
@@ -2201,6 +2219,7 @@ Start Recent Blog Area
 .single-blog-two-card .single-blog-two-content p span {
     font-weight: 500;
 }
+
 
 /* -----------------------------------
 Start Get In Touch Area
@@ -2312,6 +2331,7 @@ Start Get In Touch Area
 .get-in-touch-two-form .default-btn::after {
     background-color: var(--secondaryColor);
 }
+
 
 /* -----------------------------------
 Start My Projects Two Area
@@ -2506,6 +2526,7 @@ Start My Projects Two Area
     line-height: 30px;
 }
 
+
 /* -----------------------------------
 Start Testimonials Three Area
 ---------------------------------------*/
@@ -2677,6 +2698,7 @@ Start Testimonials Three Area
     -webkit-transition: var(--transition);
     transition: var(--transition);
 }
+
 
 /* -----------------------------------
 Start Watch Video Area
@@ -2869,6 +2891,7 @@ Start Watch Video Area
     filter: brightness(10);
 }
 
+
 /* -------------------------------------
 Start Instagram Area
 ---------------------------------------*/
@@ -2980,7 +3003,7 @@ Start Instagram Area
     color: var(--secondaryColor);
 }
 
-.instagram-content{
+.instagram-content {
     height: 241px;
     object-fit: cover;
 }
@@ -2989,6 +3012,7 @@ Start Instagram Area
     opacity: 1;
     visibility: visible;
 }
+
 
 /* -------------------------------------
 Start Contact Three Area
@@ -3013,6 +3037,7 @@ Start Contact Three Area
     top: 181px;
     z-index: -1;
 }
+
 
 /* -------------------------------------
 Start Recent Blog Area
@@ -3156,6 +3181,7 @@ Start Recent Blog Area
 .single-blog-three-content .explore-btn:hover {
     color: var(--whiteColor);
 }
+
 
 /* -------------------------------------
 Start Blog Details popup Area 
@@ -3590,6 +3616,7 @@ Start Blog Details popup Area
     background-color: var(--secondaryColor);
 }
 
+
 /* -------------------------------------
 Start Video Modal Area
 ---------------------------------------*/
@@ -3645,6 +3672,7 @@ Start Video Modal Area
     width: 100%;
     height: 100%;
 }
+
 
 /* -----------------------------------
 Start MY Resume Area
@@ -3881,6 +3909,7 @@ Start MY Resume Area
     line-height: 30px;
 }
 
+
 /* -----------------------------------
 Start My Resume Three Area
 ---------------------------------------*/
@@ -4008,6 +4037,7 @@ Start My Resume Three Area
     line-height: 30px;
 }
 
+
 /* -----------------------------------
 Start Works Area
 ---------------------------------------*/
@@ -4097,7 +4127,6 @@ Start Works Area
 
 .single-working-card .working-img {
     margin-bottom: 19px;
-
 }
 
 .single-working-card .working-img img {
@@ -4118,6 +4147,7 @@ Start Works Area
     font-size: 22px;
     line-height: 35px;
 }
+
 
 /* -----------------------------------
 Start My Pricing Plan Area
@@ -4196,6 +4226,7 @@ Start My Pricing Plan Area
     color: #888888;
     line-height: 40px;
 }
+
 
 /* ------------------------------------
 Start portfolio Popup Area
@@ -4326,6 +4357,7 @@ Start portfolio Popup Area
 .portfolio-details-content .portfolio-details-img img {
     border-radius: 5px;
 }
+
 
 /* ------------------------------------
 Start My Projects Area
@@ -4522,6 +4554,7 @@ Start My Projects Area
     }
 }
 
+
 /* --------------------------------
 Start Go Top Area
 ----------------------------------*/
@@ -4573,6 +4606,7 @@ Start Go Top Area
     }
 }
 
+
 /* ------------------------------------
 Start Text Content Area
 ---------------------------------------*/
@@ -4614,6 +4648,7 @@ Start Text Content Area
     -webkit-animation: drift 50s linear infinite both;
     animation: drift 50s linear infinite both;
 }
+
 
 /* ------------------------------------
 Start Newsletter Area 
@@ -4808,6 +4843,7 @@ Start Newsletter Area
     transition: var(--transition);
 }
 
+
 /* ------------------------------------
 Start Testimonials Area
 ---------------------------------------*/
@@ -4929,6 +4965,7 @@ Start Testimonials Area
     transition: var(--transition);
 }
 
+
 /* ---------------------------------------------------------------
 start Recent Blog And Trusted Partners Area
 -------------------------------------------------------------------*/
@@ -5041,6 +5078,7 @@ start Recent Blog And Trusted Partners Area
     color: var(--mainColor);
 }
 
+
 /* ------------------------------------
 Ripple Animation
 ---------------------------------------*/
@@ -5112,6 +5150,7 @@ Ripple Animation
         opacity: 0;
     }
 }
+
 
 /* -------------------------------------
 Start Animation 
@@ -5300,6 +5339,7 @@ Start Animation
     }
 }
 
+
 /* -------------------------------------
 Start Preloader Area
 ---------------------------------------*/
@@ -5436,9 +5476,12 @@ Start Preloader Area
     }
 }
 
+
 /*# sourceMappingURL=style.css.map */
 
+
 /* CSS for the lightbox */
+
 .lightbox {
     cursor: pointer;
     display: none;
@@ -5457,10 +5500,10 @@ Start Preloader Area
     height: 500px;
     margin: 0 auto;
     display: block;
-    position:absolute; 
-    top:50%; 
-    left:50%; 
-    transform:translate(-50%, -50%); 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     border: 5px solid #fff;
 }
 
@@ -5469,16 +5512,20 @@ Start Preloader Area
     color: var(--headingColor);
     line-height: 55px;
 }
-.class-img::after,.class-img::before{
+
+.class-img::after,
+.class-img::before {
     display: none;
 }
+
 ol.gradient-list {
     counter-reset: gradient-counter;
     list-style: none;
     margin: 1.75rem 0;
     padding-left: 1rem;
 }
-ol.gradient-list > li {
+
+ol.gradient-list>li {
     background: white;
     border-radius: 0 0.5rem 0.5rem 0.5rem;
     counter-increment: gradient-counter;
@@ -5488,7 +5535,9 @@ ol.gradient-list > li {
     position: relative;
     color: #000;
 }
-ol.gradient-list > li::before, ol.gradient-list > li::after {
+
+ol.gradient-list>li::before,
+ol.gradient-list>li::after {
     background: linear-gradient(135deg, #83e4e2 0%, #a2ed56 100%);
     border-radius: 1rem 1rem 0 1rem;
     content: "";
@@ -5499,7 +5548,8 @@ ol.gradient-list > li::before, ol.gradient-list > li::after {
     top: -1rem;
     width: 2rem;
 }
-ol.gradient-list > li::before {
+
+ol.gradient-list>li::before {
     align-items: flex-end;
     content: counter(gradient-counter);
     color: #ffffff;
@@ -5509,46 +5559,58 @@ ol.gradient-list > li::before {
     padding: 0.125em 0.25em;
     z-index: 1;
 }
-ol.gradient-list > li:nth-child(10n+1):before {
+
+ol.gradient-list>li:nth-child(10n+1):before {
     background: linear-gradient(135deg, #F7562C 0%, #5F2B1D 100%);
 }
-ol.gradient-list > li:nth-child(10n+2):before {
-    background: linear-gradient(135deg,#F7562C 0%, #5F2B1D 100%);
-}
-ol.gradient-list > li:nth-child(10n+3):before {
+
+ol.gradient-list>li:nth-child(10n+2):before {
     background: linear-gradient(135deg, #F7562C 0%, #5F2B1D 100%);
 }
-ol.gradient-list > li:nth-child(10n+4):before {
+
+ol.gradient-list>li:nth-child(10n+3):before {
     background: linear-gradient(135deg, #F7562C 0%, #5F2B1D 100%);
 }
-ol.gradient-list > li:nth-child(10n+5):before {
+
+ol.gradient-list>li:nth-child(10n+4):before {
     background: linear-gradient(135deg, #F7562C 0%, #5F2B1D 100%);
 }
-ol.gradient-list > li:nth-child(10n+6):before {
+
+ol.gradient-list>li:nth-child(10n+5):before {
     background: linear-gradient(135deg, #F7562C 0%, #5F2B1D 100%);
 }
-ol.gradient-list > li:nth-child(10n+7):before {
+
+ol.gradient-list>li:nth-child(10n+6):before {
     background: linear-gradient(135deg, #F7562C 0%, #5F2B1D 100%);
 }
-ol.gradient-list > li:nth-child(10n+8):before {
+
+ol.gradient-list>li:nth-child(10n+7):before {
     background: linear-gradient(135deg, #F7562C 0%, #5F2B1D 100%);
 }
-ol.gradient-list > li:nth-child(10n+9):before {
-    background: linear-gradient(135deg, #F7562C 0%,#5F2B1D 100%);
-}
-ol.gradient-list > li:nth-child(10n+10):before {
+
+ol.gradient-list>li:nth-child(10n+8):before {
     background: linear-gradient(135deg, #F7562C 0%, #5F2B1D 100%);
 }
-ol.gradient-list > li + li {
+
+ol.gradient-list>li:nth-child(10n+9):before {
+    background: linear-gradient(135deg, #F7562C 0%, #5F2B1D 100%);
+}
+
+ol.gradient-list>li:nth-child(10n+10):before {
+    background: linear-gradient(135deg, #F7562C 0%, #5F2B1D 100%);
+}
+
+ol.gradient-list>li+li {
     margin-top: 2rem;
 }
+
 @media (max-width: 700px) {
     .classes h2 {
         font-size: 30px;
         color: var(--headingColor);
         line-height: 35px;
     }
-    ol.gradient-list > li{
+    ol.gradient-list>li {
         padding: 0rem 0rem 0rem 2rem;
     }
     .gallery-item {
