@@ -1731,8 +1731,8 @@
 
         // looper: continuous ultra-slow rotation
         function looper() {
-            addX += 0.1; // very slow auto rotation
-            TweenMax.to(carousel, 5, { // smooth 5s tween
+            addX += 0.008; // ultra slow rotation
+            TweenMax.to(carousel, 8, { // smooth 5s tween
                 rotationY: addX,
                 rotationX: mouseY,
                 ease: Power1.easeOut
