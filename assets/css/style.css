@@ -13,6 +13,65 @@ This files table contents are outlined below>>>>>
 ** - Start Animation 
 */
 
+.courses-section {
+    padding: 40px 0;
+}
+
+
+/* Card style */
+
+.course-card {
+    border: 0;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+    transition: transform 200ms ease, box-shadow 200ms ease;
+    background: linear-gradient(180deg, #ffffff, #fff6fb);
+}
+
+.course-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.08);
+}
+
+
+/* Image inside card */
+
+.course-card .card-img-top {
+    width: 600px;
+    height: 600px;
+    object-fit: cover;
+    display: block;
+}
+
+
+/* Heading under image */
+
+.course-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #2c1736;
+    margin-bottom: 6px;
+}
+
+
+/* Short details */
+
+.course-desc {
+    font-size: 0.95rem;
+    color: #5a4a57;
+    line-height: 1.35;
+}
+
+
+/* Make layout compact on small screens */
+
+@media (max-width: 575.98px) {
+    .course-card .card-img-top {
+        height: 180px;
+    }
+}
+
 @import url("https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap");
 :root {
